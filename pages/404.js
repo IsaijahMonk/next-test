@@ -1,5 +1,5 @@
 export default function Error() {
   return (
-    <p>Page 404</p>
+    <h1>Page 404</h1>
   )
 }
